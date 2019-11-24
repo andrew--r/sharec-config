@@ -1,0 +1,10 @@
+{
+  "author": {
+    "name": "Andrey Romanov",
+    "email": "me@andreyromanov.com",
+    "url": "https://andreyromanov.com"
+  },
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}

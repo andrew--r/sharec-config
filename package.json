@@ -1,0 +1,27 @@
+{
+  "name": "@andrew-r/sharec-config",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew--r/sharec-config"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Andrey Romanov",
+    "email": "me@andreyromanov.com",
+    "url": "https://andreyromanov.com"
+  },
+  "files": [
+    "configs"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "sharec install"
+  },
+  "dependencies": {
+    "sharec": "2.13.0-beta"
+  },
+  "publishConfig": {
+    "public": true
+  }
+}
